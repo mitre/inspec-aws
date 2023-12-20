@@ -1,3 +1,4 @@
+*.code-workspace
 .envrc
 .ruby-version
 .ruby-gemset
